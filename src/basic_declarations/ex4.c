@@ -1,4 +1,4 @@
-//write a C program to print the following characters in reverse.
+//write a C program to print the following characters 'X', 'M', 'L', in reverse.
 
 #include <stdio.h>
 
